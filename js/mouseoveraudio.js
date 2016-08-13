@@ -29,14 +29,14 @@ function createsoundbite(sound){
 	}
 }
 
-var karloff=createsoundbite("audio/Karloff.mp3");
-var obeydix=createsoundbite("audio/Obeydix.mp3");
-var ulla=createsoundbite("audio/Ulla.mp3");
-var wanta=createsoundbite("audio/Want_A_Woman.mp3");
-var phree=createsoundbite("audio/Phree.mp3");
-var sheblows=createsoundbite("audio/Sheblows.mp3");
-var aichen=createsoundbite("audio/Aychen.mp3");
-var lolita=createsoundbite("audio/LOLita.mp3");
-var lusty=createsoundbite("audio/Lustyfor.mp3");
-var darwin=createsoundbite("audio/Darwin_Dick.mp3");
-var powerpuff=createsoundbite("audio/Powerpuff.mp3");
+var poca=createsoundbite("audio/Karloff.mp3");
+var roed=createsoundbite("audio/Obeydix.mp3");
+var cock=createsoundbite("audio/Cockalot.mp3");
+var Moffa=createsoundbite("audio/Moffa.mp3");
+var tinder=createsoundbite("audio/Phree.mp3");
+var skraev=createsoundbite("audio/Skraev.mp3");
+var peter=createsoundbite("audio/Spul.mp3");
+var piki=createsoundbite("audio/LOLita.mp3");
+var savfruen=createsoundbite("audio/Savfruen.mp3");
+var lokke=createsoundbite("audio/Darwin_Dick.mp3");
+var feer=createsoundbite("audio/Powerpuff.mp3");
