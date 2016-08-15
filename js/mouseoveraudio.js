@@ -39,4 +39,4 @@ var peter=createsoundbite("audio/Spul.mp3");
 var piki=createsoundbite("audio/Piki.mp3");
 var savfruen=createsoundbite("audio/Savfruen.mp3");
 var lokke=createsoundbite("audio/Hansi.mp3");
-var feer=createsoundbite("audio/Powerpuff.mp3");
+var feer=createsoundbite("audio/Feerne.mp3");
