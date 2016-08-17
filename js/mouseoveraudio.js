@@ -29,7 +29,7 @@ function createsoundbite(sound){
 	}
 }
 
-var poca=createsoundbite("audio/Karloff.mp3");
+var poca=createsoundbite("audio/Poca.mp3");
 var roed=createsoundbite("audio/Trussi.mp3");
 var cock=createsoundbite("audio/Cockalot.mp3");
 var Moffa=createsoundbite("audio/Moffa.mp3");
